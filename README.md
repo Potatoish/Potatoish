@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Pearl Ambulario
 ========================================================================================================================================
 
-Web developer and Designer
+Web Developer and Designer
 --------------------------
 
 I'm a Computer Science student passionate about web design and video editing. I love learning new things, collaborating on creative projects, and bringing ideas to life visually.
 
-* 🌍  I'm based in Philippines
+* 🌍  I'm based in the Philippines
 * ✉️  You can contact me at [raniellepearl@gmail.com](mailto:raniellepearl@gmail.com)
 * 🚀  I'm currently working on [Thesis](http://github.com/Potatoish/Disaster-route-sim.git)
 
