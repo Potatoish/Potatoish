@@ -18,7 +18,8 @@ A web-based route simulation tool built with Ant Colony Optimization (ACO) to he
 
 ### 🏰 The Lost Code Kingdom
 
-A browser-based Python learning adventure where players solve interactive coding puzzles to restore a lost kingdom. The project combines a fantasy-themed story with interactive coding challenges, a Python playground, progress tracking, and a game-like learning experience.
+A browser-based Python learning adventure where players solve interactive coding puzzles to restore a lost kingdom. The project combines a fantasy-themed story with interactive coding challenges, 
+a Python playground, progress tracking, and a game-like learning experience.
 **[View Repository →](https://github.com/Potatoish/lost_code_kingdom)**
 
 <p align="left">
